@@ -1,0 +1,3 @@
+--bail
+--require ./test/init
+--recursive test/
