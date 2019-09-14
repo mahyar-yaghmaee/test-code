@@ -14,6 +14,7 @@ pipeline {
         npm test
         '''
       }
+    }
   }
 
   post {
@@ -24,5 +25,4 @@ pipeline {
     }
   }
 
-  }
 }
